@@ -24,7 +24,7 @@ public class Traductor
 		else
 			model="en-es";
 
-		Authenticator authenticator = new IamAuthenticator("sGBqIG-kLec4RdsA3imHp_lvb7MMlZNzq-PgkmCX59P0");
+		Authenticator authenticator = new IamAuthenticator("HikMfy1CCgfETxvYNOqMZIVHuUun_Mgd3oIuAx8DX106");
 		LanguageTranslator languageTranslator = new LanguageTranslator("2018-05-01", authenticator);
 
 		languageTranslator.setServiceUrl("https://gateway-lon.watsonplatform.net/language-translator/api");
