@@ -9,10 +9,7 @@
 <body>
 <h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps</h1>
 <hr />
-<p>Opciones <b>CLOUDANT o YYYYYY n IBM Cloud</b>:</p>
-<p>Opciones <b>CLOUDANT o YYYYYY n IBM Cloud</b>:</p>
-<p>Opciones <b>CLOUDANT o YYYYYY n IBM Cloud</b>:</p>
-<p>Opciones <b>CLOUDANT o YYYYYY n IBM Cloud</b>:</p>
+<p>Opciones <b>CLOUDANT  IBM Cloud</b>:</p>
 
 <form method="get" action="insertar">Palabra a traducir<input type="text" name="palabra"></form>
 
